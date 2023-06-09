@@ -7,8 +7,6 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, Hey, {name} <3')  # Press ⌘F8 to toggle the breakpoint.
-    print('this must be a second row')
-    print('this must be a third row')
 
 
 # Press the green button in the gutter to run the script.
